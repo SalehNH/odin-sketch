@@ -1,0 +1,12 @@
+.grid-item {
+    border: 0.1px solid rgba(116, 116, 116, 0.8);
+    padding: 3px;
+}
+
+/* .container {
+    border: 0.1px solid black;
+} */
+
+div.grid-item:hover {
+    background-color: rgb(168, 168, 0);
+}
